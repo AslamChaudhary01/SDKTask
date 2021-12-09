@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "SDKTask"
 include ':app'
 include ':TosterMessage'
+include ':abc'
